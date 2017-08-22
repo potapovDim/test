@@ -1,0 +1,11 @@
+{
+  "name": "carrier_integration_-_data",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./transform-data.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
